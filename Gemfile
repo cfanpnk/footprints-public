@@ -7,7 +7,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'therubyracer', platforms: :ruby
 gem 'jquery-rails', '~> 3.1.0'
 gem 'turbolinks', '~> 2.2.1'
-gem "rake", '~> 10.1.1'
+gem "rake", '~> 12.3.3'
 gem "will_paginate", '~> 3.0.5'
 gem "safe_yaml", '~> 1.0.1'
 gem "jquery-ui-rails", '~> 4.2.0'
